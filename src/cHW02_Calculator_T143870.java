@@ -18,7 +18,7 @@ public class cHW02_Calculator_T143870 extends JFrame {
 	boolean isAppend = false;
 	int isOperator = 0; // 0 : default, 1, 2, 3, 4 -> + - * /
 
-	// Variables
+	// Variables a
 	double aNumber = 0;
 	double bNumber = 0;
 	double mNumber = 0;
